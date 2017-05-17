@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">GeevSimplePublish</string>
+    //radioBtn text
+    <string name="textState">Etat de l\'objet :</string>
+    <string name="textStateNew">Comme neuf</string>
+    <string name="textStateToFix">A bricoler</string>
+    <string name="textStateUsed">Moyen</string>
+    //hints for editText
+    <string name="hintTitleOfObject">Titre de l\'annonce</string>
+    <string name="hintDescObject">Déscription de l\'annonce</string>
+    //button text
+    <string name="buttonPublish">Publier l\'annonce</string>
+
+    //apikey for GoogleMapServices
+    <string name="mapKey">AIzaSyAEIKHPD4KgLYsYYqGHzDsGSOGLiI_1v8U</string>
+
+    //Text for dialog popup when item is published
+    <string name="dialogPublish">Votre objet à été correctement publié</string>
+    <string name="dialogPublishOk">Ok</string>
+
+    <string name="title_activity_main">Geev version -1</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>
